@@ -3,11 +3,11 @@ Olá, eu sou a Caroline Vantim!<br>
 🥰Future QA<br>
 
 <div align="center">
-  <a href="https://github.com/CarolineVantim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVantim&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/CarolineVantim"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVantim&theme=dracula&layout=compact&langs_count=7"/>
+  
 </div>
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Carol-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
