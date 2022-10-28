@@ -1,5 +1,6 @@
 Olá, eu sou a Caroline Vantim!<br>
 ✨Tenho 23 anos, sou da cidade de Araras-SP<br>
+🏫Estudante na FATEC Araras 📚 Desenvolvimento de Software Multiplataformas
 🥰Future QA<br>
 
 <div align="center">
