@@ -1,6 +1,6 @@
-Olá, eu sou a Caroline Vantim!<br>
-✨Tenho 23 anos, sou da cidade de Araras-SP<br>
-🏫Estudante na FATEC Araras 📚 Desenvolvimento de Software Multiplataformas<br>
+👋🏻Hello, I'm <strong>Caroline Vantim</strong>!<br>
+  😁I'm 23 years old, I'm from Brazil, Araras-SP<br>
+🏫College: FATEC Araras 📚 Course: Multiplatform Software Development ⏰ Status: In progress<br>
 🥰Future QA<br>
 
 <div align="center">
@@ -20,8 +20,7 @@ Olá, eu sou a Caroline Vantim!<br>
 </div>
 <hr>
 <div>
-<h3>Redes Sociais</h3>
-  <a href="https://www.twitch.tv/vantim8" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<h3>Social media</h3>
   <a href = "mailto:cvantim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caroline-vantim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
