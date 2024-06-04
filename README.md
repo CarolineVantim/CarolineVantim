@@ -15,7 +15,6 @@
     <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
     <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Carol-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Carol-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
     <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
     <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
