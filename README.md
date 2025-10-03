@@ -1,5 +1,5 @@
 👋🏻Hello, I'm <strong>Caroline Vantim</strong>!<br>
-😁I'm 25 years old, I'm from Brazil, Araras-SP<br>
+😁I'm 25 years old, I'm from Brazil, Araras, São Paulo<br>
 🥰QA | Junior Analyst QA<br>
 
 <div align="center">
@@ -16,8 +16,10 @@
     <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Carol-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
     <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
-    <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+    <img align="center" alt="Carol-Type" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Carol-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+    <img align="center" alt="Carol-Confluence" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-line-wordmark.svg">
+    <img align="center" alt="Carol-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
 </div>
 <hr>
 <div>
