@@ -1,5 +1,5 @@
 👋🏻Hello, I'm <strong>Caroline Vantim</strong>!<br>
-😁I'm 25 years old, I'm from Brazil, Araras, São Paulo<br>
+😁I'm 26 years old, I'm from Brazil, Araras, São Paulo<br>
 🥰QA | Junior Analyst QA<br>
 
 <div align="center">
