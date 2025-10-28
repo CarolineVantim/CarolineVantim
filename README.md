@@ -1,29 +1,47 @@
-👋🏻Hello, I'm <strong>Caroline Vantim</strong>!<br>
-😁I'm 26 years old, I'm from Brazil, Araras, São Paulo<br>
-🥰QA | Junior Analyst QA<br>
+<h1 align="center">👋🏻 Hello, I'm <strong>Caroline Vantim</strong>!</h1>
+
+<p align="center">
+  🧠 <strong>QA | Junior QA Analyst</strong> <br>
+  🎓 Graduated in <strong>Multiplatform Software Development</strong> <br>
+   From Araras, São Paulo — Brazil • 26 years old
+</p>
+
+---
+
+<h3 align="center">💡 About Me</h3>
+
+- 🎯 Passionate about quality assurance, process improvement and automation  
+- 🧩 Always seeking to understand how systems work to make them better  
+- 🚀 Interested in testing strategies, backend validation, and continuous integration  
+- 🧠 Constantly learning new technologies to improve my skills  
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/CarolineVantim"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVantim&theme=dracula&layout=compact&langs_count=7"/>
-  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVantim&layout=compact&theme=dracula&langs_count=8"/>
 </div>
-<div style="display: inline_block"><br>
-    <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Carol-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Carol-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-    <img align="center" alt="Carol-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
-    <img align="center" alt="Carol-Type" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Carol-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="Carol-Confluence" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-line-wordmark.svg">
-    <img align="center" alt="Carol-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
-</div>
-<hr>
+
+---
+
+### 🤝 Contributions
+
+Here are some repositories and projects I’ve contributed to:
+
+- 🔹 [Project 1 – *Leaflet*]([https://github.com/link-do-projeto](https://github.com/CarolineVantim/leaflet-geosearch)): Contribution to the development of integration with the GEOAPIFY API.  
+- 🔹 [Project 2 – *Keyprovider*]([https://github.com/link-do-projeto](https://github.com/CarolineVantim/Fatec_Projeto_Integrador_Terceiro_Semestre)) 
+
+---
+
+### 🌎 Connect with Me
+
 <div>
-<h3>Social media</h3>
-  <a href = "mailto:cvantim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroline-vantim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:cvantim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/caroline-vantim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+---
+
+<p align="center">✨ “Quality is not an act, it is a habit.” — Aristotle ✨</p>
