@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">💡 About Me</h3>
+<h3 align="center"> About Me</h3>
 
 - 🎯 Passionate about quality assurance, process improvement and automation  
 - 🧩 Always seeking to understand how systems work to make them better  
@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&show_icons=true&theme=dracula&count_private=true"/>
@@ -26,7 +26,7 @@
 
 ---
 
-### 🤝 Contributions
+###  Contributions
 
 Here are some repositories and projects I’ve contributed to:
 
