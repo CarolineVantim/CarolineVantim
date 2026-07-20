@@ -1,47 +1,58 @@
-<h1 align="center">👋🏻 Hello, I'm <strong>Caroline Vantim</strong>!</h1>
+<h1 align="center">👋🏻 Hi, I'm <strong>Caroline Vantim</strong></h1>
 
 <p align="center">
-  🧠 <strong>QA | Junior QA Analyst</strong> <br>
-  🎓 Graduated in <strong>Multiplatform Software Development</strong> <br>
-   From Araras, São Paulo — Brazil • 26 years old
+  🧪 <strong>Quality Assurance Analyst</strong> • 🚀 <strong>Ex-Developer</strong> <br>
+  🎓 Software Development Graduate • 📍 São Paulo, Brazil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caroline-vantim/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:cvantim@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-<h3 align="center"> About Me</h3>
+### 💡 About Me
 
-- 🎯 Passionate about quality assurance, process improvement and automation  
-- 🧩 Always seeking to understand how systems work to make them better  
-- 🚀 Interested in testing strategies, backend validation, and continuous integration  
-- 🧠 Constantly learning new technologies to improve my skills  
+- 🎯 **Focus:** Quality Assurance, API Testing, Automation, and Shift-Left Testing practices.
+- 🧩 **Background:** Software Development background, giving me a strong technical perspective to understand systems under the hood and collaborate closely with dev teams.
+- 🚀 **Passionate about:** Test strategies, backend validation, continuous integration, and continuously improving quality processes.
+- 🧠 **Growth Mindset:** Constantly expanding my skills in modern testing frameworks, AI testing, and quality architecture.
 
 ---
 
-###  GitHub Stats
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20%26%20Testing-0052CC?style=for-the-badge&logo=pytest&logoColor=white" alt="QA & Testing"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarolineVantim&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVantim&layout=compact&theme=dracula&langs_count=8"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarolineVantim&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-###  Contributions
+### 📌 Featured Projects & Contributions
 
-Here are some repositories and projects I’ve contributed to:
-
-- 🔹 [Project 1 – *Leaflet*]([https://github.com/link-do-projeto](https://github.com/CarolineVantim/leaflet-geosearch)): Contribution to the development of integration with the GEOAPIFY API.  
-- 🔹 [Project 2 – *Keyprovider*]([https://github.com/link-do-projeto](https://github.com/CarolineVantim/Fatec_Projeto_Integrador_Terceiro_Semestre)) 
+- 🔹 **[Leaflet Geosearch](https://github.com/CarolineVantim/leaflet-geosearch)** — Contributed to the development and integration with the Geoapify API for location queries.
+- 🔹 **[Keyprovider](https://github.com/CarolineVantim/Fatec_Projeto_Integrador_Terceiro_Semestre)** — Integrated project focused on software architecture and development solutions.
 
 ---
 
-### 🌎 Connect with Me
-
-<div>
-  <a href="mailto:cvantim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/caroline-vantim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
----
-
-<p align="center">✨ “Quality is not an act, it is a habit.” — Aristotle ✨</p>
+<p align="center">
+  ✨ <em>“Quality is not an act, it is a habit.”</em> — Aristotle ✨
+</p>
